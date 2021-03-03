@@ -1,7 +1,6 @@
 /*
  * keypad.c
  *
- *  Created on: 3 mar 2021
  *      Author: Bartłomiej Burda
  */
 #include "keypad.h"
